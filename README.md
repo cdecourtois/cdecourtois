@@ -7,7 +7,7 @@ Après avoir conçu des solutions IIoT industrielles et ferroviaires et piloté 
 ---
 
 ### 🚀 En ce moment, je travaille sur :
-*   **[Nom de votre application de dictionnaire]** : Une application web multilingue et un outil d'apprentissage des langues conçu avec **Angular** et **TypeScript**. 
+*   **Dictionnaire d'Arabe Tunisien** : Une application web multilingue et un outil d'apprentissage des langues conçu avec **Angular** et **TypeScript**. 
     *   *Fonctionnalités clés* : Gestion fine du stockage local (Local Storage), architecture modulaire de composants UI/UX, intégration et traitement de tranches de données multilingues (CSV).
 
 ### 🛠️ Stack Technique & Compétences
